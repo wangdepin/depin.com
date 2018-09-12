@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary on welcome to WANGDePin&#39;s website</title>
+    <link>/tags/diary/</link>
+    <description>Recent content in Diary on welcome to WANGDePin&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>the second blog </title>
+      <link>/2018/09/12/the-second-blog/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/12/the-second-blog/</guid>
+      <description> this is my second blog! I like it ! </description>
+    </item>
+    
+    <item>
+      <title>the first blog</title>
+      <link>/2018/09/11/the-first-blog/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/11/the-first-blog/</guid>
+      <description> Hello world! I&amp;rsquo;m coming! </description>
+    </item>
+    
+  </channel>
+</rss>
