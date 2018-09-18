@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diary on welcome to WANGDePin&#39;s website</title>
+    <link>/tags/diary/</link>
+    <description>Recent content in Diary on welcome to WANGDePin&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>five blog</title>
+      <link>/2018/09/18/five-blog/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/18/five-blog/</guid>
+      <description>ddfajflkdsafsoifo</description>
+    </item>
+    
+    <item>
+      <title>third post </title>
+      <link>/2018/09/17/third-post/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/17/third-post/</guid>
+      <description>this is my third post! i want to write a lot!</description>
+    </item>
+    
+    <item>
+      <title>晚点大师傅</title>
+      <link>/2018/09/17/%E6%99%9A%E7%82%B9%E5%A4%A7%E5%B8%88%E5%82%85/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/17/%E6%99%9A%E7%82%B9%E5%A4%A7%E5%B8%88%E5%82%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About my aim during next 9-12months</title>
+      <link>/2018/09/13/the-third-post/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/13/the-third-post/</guid>
+      <description>according to the feedback analysis from Peter F.Drucker,I have three aims to get: first,to finish a scienctic paper;second, make a self-drive tony car;finally,to improve my english skil.after 9-12 months,compare the outcome with my aims,and to find my strengths.</description>
+    </item>
+    
+    <item>
+      <title>the second blog </title>
+      <link>/2018/09/12/the-second-blog/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/12/the-second-blog/</guid>
+      <description> this is my second blog! I like it ! </description>
+    </item>
+    
+    <item>
+      <title>the first blog</title>
+      <link>/2018/09/11/the-first-blog/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/09/11/the-first-blog/</guid>
+      <description> Hello world! I&amp;rsquo;m coming! </description>
+    </item>
+    
+  </channel>
+</rss>
